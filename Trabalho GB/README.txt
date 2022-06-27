@@ -66,7 +66,7 @@ veias.png
 
 O trabalho foi feito utilizando uma das "samples" disponíveis ao baixar e instalar os arquivos do Opencv, portanto,
 para abrir o arquivo .sln, deve-se escolher o de nome "OpenCV.sln" para inicializar o programa. Caso não esteja
-selecionado, a solução tem nome "Trabalho PG - filtros".
+selecionado, a solução tem nome "BasicLinearTransforms".
 
 Os demais arquivos de imagens podem ser enconrtados em: "...opencv\build\samples\cpp".
 
